@@ -8,10 +8,10 @@ class script(object):
 
 # ⚠️ Please don't change our credits 𝚃𝙷𝙰𝙽𝙺𝚂 𝚃𝙾 & 𝙳𝙴𝚅 👇🏻
 
-    ABOUT_TXT = """<b>✯ 𝙼𝚈 𝙽𝙰𝙼𝙴: {}
-✯ ʟᴏᴠᴇ❤: <a href=https://t.me/Syrus_143_hpy>❤</a>
-✯ ᴍᴀɪɴ ᴄʜᴀɴɴᴇʟ: <a href=https://t.me/Filmy_men>ғɪʟᴍʏ ᴍᴇɴ</a>
-✯ ᴍʏ ʜᴜsʙᴀɴᴅ: <a href=https://t.me/Syrus_143_hpy>亗 𝗧𝗛𝗘 𝗦𝗔𝗡ᕲ𝗠𝗔𝗡</a>
+    ABOUT_TXT = """<b>✯ ᴍʏ ɴᴀᴍᴇ: {}
+✯ ʟᴏᴠᴇ: <a href=https://t.me/Tamilanmoviesssz>❤</a>
+✯ ᴍᴀɪɴ ᴄʜᴀɴɴᴇʟ: <a href=https://t.me/Tamilanlinkz>ᴛᴀᴍɪʟᴀɴ ʟɪɴᴋᴢ</a>
+✯ ᴍʏ ʜᴜsʙᴀɴᴅ: <a href=https://t.me/aLooser>亗 NISANTH</a>
 ✯ ʟɪʙʀᴀʀʏ: ᴘʏʀᴏɢʀᴀᴍ
 ✯ ʟᴀɴɢᴜᴀɢᴇ: ᴘʏᴛʜᴏɴ 𝟹
 ✯ ᴅᴀᴛᴀʙᴀsᴇ: ᴍᴏɴɢᴏᴅʙ
@@ -98,7 +98,7 @@ these are the extra features of Elsa
 ⏭️ /song 𝚂𝙾𝙽𝙶 𝙽𝙰𝙼𝙴 
 
 <b>𝚆𝙾𝚁𝙺𝚂 𝙱𝙾𝚃𝙷 𝙶𝚁𝙾𝚄𝙿 𝙰𝙽𝙳 𝙿𝙼</b>
-@FILMY_MEN"""
+@Tamilanlinkz"""
 
     VIDEO_TXT ="""𝙷𝙴𝙻𝙿 𝚈𝙾𝚄 𝚃𝙾 𝙳𝙾𝚆𝙽𝙻𝙾𝙰𝙳 𝚅𝙸𝙳𝙴𝙾 𝙵𝚁𝙾𝙼 𝚈𝙾𝚄𝚃𝚄𝙱𝙴.
 • 𝘜𝘴𝘢𝘨𝘦
@@ -297,9 +297,9 @@ Name - {}
 
 
 ╔════ ᴊᴏɪɴ ᴡɪᴛʜ ᴜs ════╗
-▫️<a href=https://t.me/Filmy_Men> ᴄʜᴀɴɴᴇʟ </a>
+▫️<a href=https://t.me/Tamilanlinkz> ᴄʜᴀɴɴᴇʟ </a>
 
-▫️<a href=https://t.me/Filmy_Rog>ʀᴇǫᴜᴇsᴛ ɢʀᴏᴜᴘ</a>
+▫️<a href=https://t.me/Tamilanmoviesssz>ʀᴇǫᴜᴇsᴛ ɢʀᴏᴜᴘ</a>
 ╚════ ᴊᴏɪɴ ᴡɪᴛʜ ᴜs ════╝</b>"""
 
     RESTART_TXT = """
