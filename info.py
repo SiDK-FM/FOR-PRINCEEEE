@@ -48,13 +48,13 @@ BOT_TOKEN = environ['BOT_TOKEN']
 # Bot settings
 CACHE_TIME = int(environ.get('CACHE_TIME', 300))
 USE_CAPTION_FILTER = bool(environ.get('USE_CAPTION_FILTER', False))
-PICS = (environ.get('PICS', 'https://telegra.ph/file/14ea49625341fb27b4df6.jpg')).split()
+PICS = (environ.get('PICS', 'https://telegra.ph/file/1ac9a0196e9e1227444eb.jpg')).split()
 NOR_IMG = environ.get('NOR_IMG', "")
 SPELL_IMG = environ.get('SPELL_IMG',"https://telegra.ph/file/3675ce6c5f511cc867ec7.jpg")
 
 # Welcome area
-MELCOW_IMG = environ.get('MELCOW_IMG',"https://telegra.ph/file/25c2ee07b3638d2005658.jpg")
-MELCOW_VID = environ.get('MELCOW_VID',"https://telegra.ph/file/b04dd068fc8e2c2235f8d.mp4")
+MELCOW_IMG = environ.get('MELCOW_IMG',"https://telegra.ph/file/1ac9a0196e9e1227444eb.jpg")
+MELCOW_VID = environ.get('MELCOW_VID',"https://telegra.ph/file/1ac9a0196e9e1227444eb.jpg")
 
 
 
@@ -90,7 +90,7 @@ MAX_BTN = int(environ.get('MAX_BTN', "7"))
 S_GROUP = environ.get('S_GROUP',"https://t.me/Tamilanmoviesssz")
 MAIN_CHANNEL = environ.get('MAIN_CHANNEL',"https://t.me/Tamilanlinkz")
 FILE_FORWARD = environ.get('FILE_FORWARD',"https://t.me/+F805GdOXO1JlOWU9")
-MSG_ALRT = environ.get('MSG_ALRT', '𝗣𝗿𝗲𝘀𝗵𝗮𝗻 𝗠𝗮𝘁 𝗞𝗿 𝗕𝗰')
+MSG_ALRT = environ.get('MSG_ALRT', 'нєℓℓσ нσω αяє уσυ✨🕊❤')
 FILE_CHANNEL = int(environ.get('FILE_CHANNEL', 0))
 LOG_CHANNEL = int(environ.get('LOG_CHANNEL', 0))
 SUPPORT_CHAT = environ.get('SUPPORT_CHAT', 'Tamilanmoviesssz')
