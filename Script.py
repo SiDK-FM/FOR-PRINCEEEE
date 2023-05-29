@@ -292,15 +292,8 @@ Name - {}
 ©{message.chat.title}</b>
 """
 
-    CUSTOM_FILE_CAPTION = """<b>📂Fɪʟᴇɴᴀᴍᴇ : {file_name}
+    CUSTOM_FILE_CAPTION = """<b>📂Fɪʟᴇɴᴀᴍᴇ : {file_name}"""
 
-
-
-╔════ ᴊᴏɪɴ ᴡɪᴛʜ ᴜs ════╗
-▫️<a href=https://t.me/Tamilanlinkz> ᴄʜᴀɴɴᴇʟ </a>
-
-▫️<a href=https://t.me/Tamilanmoviesssz>ʀᴇǫᴜᴇsᴛ ɢʀᴏᴜᴘ</a>
-╚════ ᴊᴏɪɴ ᴡɪᴛʜ ᴜs ════╝</b>"""
 
     RESTART_TXT = """
 <b>Bᴏᴛ Rᴇsᴛᴀʀᴛᴇᴅ !
