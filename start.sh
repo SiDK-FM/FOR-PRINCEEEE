@@ -1,12 +1,12 @@
 if [ -z $UPSTREAM_REPO ]
 then
   echo "Cloning main Repository"
-  git clone https://github.com/SiDK-FM/FOR-NISHANTH FOR-NISHANTH
+  git clone https://github.com/SiDK-FM/FOR-PRINCEEEE FOR-PRINCEEEE
 else
   echo "Cloning Custom Repo from $UPSTREAM_REPO "
-  git clone $UPSTREAM_REPO FOR-NISHANTH
+  git clone $UPSTREAM_REPO FOR-PRINCEEEE
 fi
-cd FOR-NISHANTH
+cd FOR-PRINCEEEE
 pip3 install -U -r requirements.txt
 echo "𝙎𝙩𝙖𝙧𝙩𝙞𝙣𝙜 𝙀𝙡𝙨𝙖....🧞‍♂️"
 python3 bot.py
