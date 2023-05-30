@@ -48,13 +48,13 @@ BOT_TOKEN = environ['BOT_TOKEN']
 # Bot settings
 CACHE_TIME = int(environ.get('CACHE_TIME', 300))
 USE_CAPTION_FILTER = bool(environ.get('USE_CAPTION_FILTER', False))
-PICS = (environ.get('PICS', 'https://telegra.ph/file/1ac9a0196e9e1227444eb.jpg')).split()
+PICS = (environ.get('PICS', 'https://telegra.ph/file/466f26273cdae73fc3d2e.jpg')).split()
 NOR_IMG = environ.get('NOR_IMG', "")
-SPELL_IMG = environ.get('SPELL_IMG',"https://telegra.ph/file/3675ce6c5f511cc867ec7.jpg")
+SPELL_IMG = environ.get('SPELL_IMG',"https://telegra.ph/file/466f26273cdae73fc3d2e.jpg")
 
 # Welcome area
-MELCOW_IMG = environ.get('MELCOW_IMG',"https://telegra.ph/file/1ac9a0196e9e1227444eb.jpg")
-MELCOW_VID = environ.get('MELCOW_VID',"https://telegra.ph/file/1ac9a0196e9e1227444eb.jpg")
+MELCOW_IMG = environ.get('MELCOW_IMG',"https://telegra.ph/file/466f26273cdae73fc3d2e.jpg")
+MELCOW_VID = environ.get('MELCOW_VID',"https://telegra.ph/file/466f26273cdae73fc3d2e.jpg")
 
 
 
@@ -87,20 +87,20 @@ DOWNLOAD_LOCATION = environ.get("DOWNLOAD_LOCATION", "./DOWNLOADS/AudioBoT/")
 DELETE_CHANNELS = [int(dch) if id_pattern.search(dch) else dch for dch in environ.get('DELETE_CHANNELS', '0').split()]
 PORT = os.environ.get("PORT", "8080")
 MAX_BTN = int(environ.get('MAX_BTN', "7"))
-S_GROUP = environ.get('S_GROUP',"https://t.me/Tamilanmoviesssz")
-MAIN_CHANNEL = environ.get('MAIN_CHANNEL',"https://t.me/Tamilanlinkz")
+S_GROUP = environ.get('S_GROUP',"https://t.me/AlAS_NOW")
+MAIN_CHANNEL = environ.get('MAIN_CHANNEL',"https://t.me/AlasUpdate")
 FILE_FORWARD = environ.get('FILE_FORWARD',"https://t.me/+F805GdOXO1JlOWU9")
 MSG_ALRT = environ.get('MSG_ALRT', 'нєℓℓσ нσω αяє уσυ✨🕊❤')
 FILE_CHANNEL = int(environ.get('FILE_CHANNEL', 0))
 LOG_CHANNEL = int(environ.get('LOG_CHANNEL', 0))
-SUPPORT_CHAT = environ.get('SUPPORT_CHAT', 'Tamilanmoviesssz')
+SUPPORT_CHAT = environ.get('SUPPORT_CHAT', 'AlAS_NOW')
 AUTO_DELETE = is_enabled((environ.get('AUTO_DELETE', "True")), True)
 P_TTI_SHOW_OFF = is_enabled((environ.get('P_TTI_SHOW_OFF', "True")), True)
 IMDB = is_enabled((environ.get('IMDB', "True")), True)
 SINGLE_BUTTON = is_enabled((environ.get('SINGLE_BUTTON', "True")), False)
 CUSTOM_FILE_CAPTION = environ.get("CUSTOM_FILE_CAPTION", f"{script.CUSTOM_FILE_CAPTION}")
 BATCH_FILE_CAPTION = environ.get("BATCH_FILE_CAPTION", CUSTOM_FILE_CAPTION)
-IMDB_TEMPLATE = environ.get("IMDB_TEMPLATE","<b>Your Query: {query}</b> \n🏷 Title: <a href={url}>{title}</a>\n🎭 Genres: {genres}\n📆 Year: <a href={url}/releaseinfo>{year}</a>\n🌟 Rating: <a href={url}/ratings>{rating}</a> |•| 10 \n\n💛 Please Share Us 💛\n\n‌‌‌‌Powered by: @Tamilanlinkz")
+IMDB_TEMPLATE = environ.get("IMDB_TEMPLATE","<b>Your Query: {query}</b> \n🏷 Title: <a href={url}>{title}</a>\n🎭 Genres: {genres}\n📆 Year: <a href={url}/releaseinfo>{year}</a>\n🌟 Rating: <a href={url}/ratings>{rating}</a> / 10 \n\n💛 Please Share Us 💛\n\n‌‌‌‌Powered by: @AlasUpdate")
 LONG_IMDB_DESCRIPTION = is_enabled(environ.get("LONG_IMDB_DESCRIPTION", "False"), False)
 SPELL_CHECK_REPLY = is_enabled(environ.get("SPELL_CHECK_REPLY", "True"), True)
 MAX_LIST_ELM = environ.get("MAX_LIST_ELM", None)
