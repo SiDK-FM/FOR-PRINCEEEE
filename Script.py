@@ -292,7 +292,7 @@ Name - {}
 ©{message.chat.title}</b>
 """
 
-    CUSTOM_FILE_CAPTION = """<b>📂Fɪʟᴇɴᴀᴍᴇ : {file_name}\n ғɪʟᴇ sɪᴢᴇ :{file_size}\n\n<b>☞ @Tamilanlinkz<b>\n<b>☞ @AlasUpdate<b> """
+    CUSTOM_FILE_CAPTION = """<b>⚡ 𝗙𝗶𝗹𝗲 𝗡𝗮𝗺𝗲 : {file_name}\n ✨ 𝗦𝗶𝘇𝗲  :{file_size}\n\n<b>☞ @AlasUpdate<b>\n<b>☞ @Alas_Now<b> """
 
 
     RESTART_TXT = """
